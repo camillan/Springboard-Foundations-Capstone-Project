@@ -1,0 +1,33 @@
+---
+title: "C. Nawaz Springboard DS Foundations Capstone Project Proposal"
+output: html_document
+---
+
+Springboard Data Science Foundations Capstone Project Proposal
+March 2017
+
+The Problem:
+On the travel site Airbnb, guest reviews of a listing's host and the housing play a significant role in its popularity and are an indicator of the customer's overall experience using the site. After a stay is over, the guest reviews their experience, including several factors that add up to a total review score. A large majority of reviews fall above 4 stars, lessening the value of highly-reviewed listings. In order to facilitate good experiences for guests, there are insights to be gained from analyzing the rating system. Hopefully, this analysis will shed light upon what predicts a positive experience for guests.  
+
+The Client:
+The client for this project will be Airbnb. With this project's analysis, the company can augment their rules or standards that hosts must abide by in order for their property to be listed. By taking more active steps to ensure the quality of the guests' experiences, they can improve their product and potentially contribute to the further growth of the business.
+
+The Data:
+- http://insideairbnb.com/get-the-data.html (under a CCO 1.0 liscense)
+- Datasets of listings from selected cities: Washington, D.C.; Los Angeles, CA; San Francisco, CA; New York City, NY; London, United Kingdom; Sydney, Australia; Rio de Janeiro, Brazil.
+- These cities were selected from the top Airbnb cities (as found in Forbes' article https://www.forbes.com/sites/niallmccarthy/2016/07/07/which-cities-have-the-most-airbnb-listings-infographic/amp/), adding in San Francisco, where Airbnb is headquartered, and Washington, D.C., the nation's capital.
+
+Outline/Approach:
+1) Tidy data
+2) Exploratory data analysis, focusing on listing rating (overall, accuracy, cleanliness, check-in, communication, and location), price, require guest profile picture, neighborhood, host response rate, host acceptance rate, and host gender (if possible).
+4) Crystallize research questions and hypotheses; run tests and create regressions.
+5) Summarize findings in deliverables listed below and publish to the Springboard community.
+
+
+Deliverables:
+- Code
+- Paper and/or slide deck
+
+Works Cited:
+https://www.forbes.com/sites/niallmccarthy/2016/07/07/which-cities-have-the-most-airbnb-listings-infographic/amp/
+http://insideairbnb.com/get-the-data.html 
